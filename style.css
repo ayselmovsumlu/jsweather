@@ -7,7 +7,7 @@ body {
   padding: 70px 0;
 }
 #weather .box {
-  background-color: #b07171;
+  background: linear-gradient(to right, #eab0e8, #801f6a);
   width: 300px;
   height: 400px;
   border-radius: 25px;
@@ -23,8 +23,9 @@ body {
   border-radius: 25px;
 }
 #weather .box .btn {
-  background-color: #5c1010;
+  background-color: #4c0f2e;
   border-radius: 20px;
   margin-top: 15px;
   color: white;
+  font-size: 18px;
 }/*# sourceMappingURL=style.css.map */
