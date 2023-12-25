@@ -20,7 +20,7 @@ body {
   color: #3b0a23;
 }
 #weather .box input {
-  border-radius: 20px;
+  border-radius: 25px;
 }
 #weather .box .btn {
   background-color: #5c1010;
